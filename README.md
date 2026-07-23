@@ -24,7 +24,7 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%230e75b6.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://github.com/leshabainnocent-dev" target="_blank">
+  <a href="https://github.com/Leshaba-Innocent" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:leshabainnocent1@gmail.com" target="_blank">
@@ -62,17 +62,17 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <a href="https://github.com/leshabainnocent-dev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=leshabainnocent-dev&theme=radical&border=0e75b6&background=0D1117" alt="Innocent's GitHub streak"/>
+  <a href="https://github.com/Leshaba-Innocent">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leshaba-Innocent&theme=radical&border=0e75b6&background=0D1117" alt="Innocent's GitHub streak"/>
   </a>
 </p>
 
 <div align="center">
-  <a href="https://github.com/leshabainnocent-dev">
-    <img alt="Innocent's Github Stats" src="https://github-readme-stats-three-rho-t2mhfr4xbb.vercel.app/api?username=leshabainnocent-dev&show_icons=true&count_private=true&theme=radical&border_color=0e75b6&bg_color=0D1117" height="192px" width="49.5%"/>
+  <a href="https://github.com/Leshaba-Innocent">
+    <img alt="Innocent's Github Stats" src="https://github-readme-stats-three-rho-t2mhfr4xbb.vercel.app/api?username=Leshaba-Innocent&show_icons=true&count_private=true&theme=radical&border_color=0e75b6&bg_color=0D1117" height="192px" width="49.5%"/>
   </a>
-  <a href="https://github.com/leshabainnocent-dev">
-    <img alt="Innocent's Top Languages" src="https://github-readme-stats-three-rho-t2mhfr4xbb.vercel.app/api/top-langs/?username=leshabainnocent-dev&langs_count=8&layout=compact&theme=radical&border_color=0e75b6&bg_color=0D1117" height="192px" width="49.5%"/>
+  <a href="https://github.com/Leshaba-Innocent">
+    <img alt="Innocent's Top Languages" src="https://github-readme-stats-three-rho-t2mhfr4xbb.vercel.app/api/top-langs/?username=Leshaba-Innocent&langs_count=8&layout=compact&theme=radical&border_color=0e75b6&bg_color=0D1117" height="192px" width="49.5%"/>
   </a>
 </div>
 
