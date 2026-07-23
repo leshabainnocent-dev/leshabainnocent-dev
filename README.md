@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Leshaba Innocent</h1>
 <h3 align="center">An aspiring developer from South Africa 🇿🇦</h3>
 
@@ -6,41 +5,75 @@
   <img src="https://komarev.com/ghpvc/?username=captainskip&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
+<hr/>
 
 ### 🔖 About Me
-- I’m currently learning and improving on **Python, JavaScript, React, and Next.js**.
-- You can reach me at **📫 stumpeed4@gmail.com**.
+- I'm currently learning and improving on **Python, JavaScript, React, and Next.js**.
+- I enjoy building clean, functional web apps and solving real problems with code.
+- You can reach me at **📫 leshabainnocent1@gmail.com**.
 
----
+<br/>
+<hr/>
+<br/>
 
 ### 🔗 Connect with Me
 <p align="center">
-  <!-- <a href="https://www.linkedin.com/in/captainskip" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/></a> -->
   <a href="https://github.com/captainskip" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="30" height="30"/></a>
-  <!-- <a href="https://twitter.com/captainskip" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="30" height="30"/></a> -->
 </p>
 
----
+<br/>
+<hr/>
+<br/>
 
-### 🛠 Languages and Tools
+## 👨‍💻 My Tech Stack
+
+#### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Frameworks & Libraries
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-%23181818.svg?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+
+#### Design & Tools
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+<br/>
+<hr/>
+<br/>
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
-</a>
-
+  <a href="https://github.com/captainskip">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=captainskip&theme=radical&border=0e75b6&background=0D1117" alt="Innocent's GitHub streak"/>
+  </a>
 </p>
 
----
+<div align="center">
+  <a href="https://github.com/captainskip">
+    <img alt="Innocent's Github Stats" src="https://github-readme-stats.vercel.app/api?username=captainskip&show_icons=true&count_private=true&theme=radical&border_color=0e75b6&bg_color=0D1117" height="192px" width="49.5%"/>
+  </a>
+  <a href="https://github.com/captainskip">
+    <img alt="Innocent's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainskip&langs_count=8&layout=compact&theme=radical&border_color=0e75b6&bg_color=0D1117" height="192px" width="49.5%"/>
+  </a>
+</div>
 
+<br/>
+<hr/>
 
 <p align="center">
-  ©️ 2026 All Rights Reserved... captainskip 
+  <i>"Greatness, begins with one line of creative code! Let's get creative."</i>
 </p>
 
+<p align="center">
+  ©️ 2026 All Rights Reserved — captainskip
+</p>
