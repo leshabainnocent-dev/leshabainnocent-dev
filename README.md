@@ -84,5 +84,5 @@
 </p>
 
 <p align="center">
-  ©️ 2026 All Rights Reserved — captainskip
+  ©️ 2026 All Rights Reserved — LeshInno
 </p>
