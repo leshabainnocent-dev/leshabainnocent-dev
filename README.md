@@ -84,5 +84,5 @@
 </p>
 
 <p align="center">
-  ©️ 2026 All Rights Reserved — LeshInno
+  ©️ 2026 All Rights Reserved — Leshaba Innocent
 </p>
