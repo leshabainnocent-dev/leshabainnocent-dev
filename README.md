@@ -69,10 +69,10 @@
 
 <div align="center">
   <a href="https://github.com/leshabainnocent-dev">
-    <img alt="Innocent's Github Stats" src="https://github-readme-stats.vercel.app/api?username=leshabainnocent-dev&show_icons=true&count_private=true&theme=radical&border_color=0e75b6&bg_color=0D1117" height="192px" width="49.5%"/>
+    <img alt="Innocent's Github Stats" src="https://github-readme-stats-three-rho-t2mhfr4xbb.vercel.app/api?username=leshabainnocent-dev&show_icons=true&count_private=true&theme=radical&border_color=0e75b6&bg_color=0D1117" height="192px" width="49.5%"/>
   </a>
   <a href="https://github.com/leshabainnocent-dev">
-    <img alt="Innocent's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leshabainnocent-dev&langs_count=8&layout=compact&theme=radical&border_color=0e75b6&bg_color=0D1117" height="192px" width="49.5%"/>
+    <img alt="Innocent's Top Languages" src="https://github-readme-stats-three-rho-t2mhfr4xbb.vercel.app/api/top-langs/?username=leshabainnocent-dev&langs_count=8&layout=compact&theme=radical&border_color=0e75b6&bg_color=0D1117" height="192px" width="49.5%"/>
   </a>
 </div>
 
