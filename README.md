@@ -63,16 +63,16 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/captainskip">
+  <a href="https://github.com/leshabainnocent-dev">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=captainskip&theme=radical&border=0e75b6&background=0D1117" alt="Innocent's GitHub streak"/>
   </a>
 </p>
 
 <div align="center">
-  <a href="https://github.com/captainskip">
+  <a href="https://github.com/leshabainnocent-dev">
     <img alt="Innocent's Github Stats" src="https://github-readme-stats.vercel.app/api?username=captainskip&show_icons=true&count_private=true&theme=radical&border_color=0e75b6&bg_color=0D1117" height="192px" width="49.5%"/>
   </a>
-  <a href="https://github.com/captainskip">
+  <a href="https://github.com/leshabainnocent-dev">
     <img alt="Innocent's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainskip&langs_count=8&layout=compact&theme=radical&border_color=0e75b6&bg_color=0D1117" height="192px" width="49.5%"/>
   </a>
 </div>
