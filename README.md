@@ -17,11 +17,21 @@
 <br/>
 
 ### 🔗 Connect with Me
-<p align="center">
-  <a href="https://github.com/captainskip" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="30" height="30"/></a>
+<p>
+  <a href="https://www.linkedin.com/in/lesh-innocent25k" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%230e75b6.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/leshabainnocent-dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:stumpeed4@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<br/>
 <hr/>
 <br/>
 
