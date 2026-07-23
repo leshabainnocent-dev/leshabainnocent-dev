@@ -27,7 +27,7 @@
   <a href="https://github.com/leshabainnocent-dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:stumpeed4@gmail.com" target="_blank">
+  <a href="mailto:leshabainnocent1@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
